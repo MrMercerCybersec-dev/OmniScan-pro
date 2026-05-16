@@ -1,0 +1,14 @@
+# Local System Analysis Logs
+report_*.md
+audit_*.json
+
+# Compiled High-Performance Binaries
+tracer
+forensics
+
+# Python Application Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
